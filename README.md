@@ -1,5 +1,5 @@
 # Text-Processing
-Program made for the university, file test.c is the one made by me.  
+Program made for the university, file test.c iis made by me and the other files were given to me by the proffesor.
 
 
     Task description
